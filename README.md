@@ -8,11 +8,11 @@ In parallel, I am since 2017 Associate Teacher at Telecom Saint Etienne, respons
 ## Main Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,git,java&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=flutter,git,java&theme=light"/>
 </p>
 
 ## Secondary Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gitlab,linux,python&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=gitlab,linux,python&theme=light"/>
 </p>
