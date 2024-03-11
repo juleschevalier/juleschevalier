@@ -5,6 +5,10 @@ In parallel, I am since 2017 Associate Teacher at Telecom Saint Etienne, respons
 
 🔭 I’m currently working on [Brin'Git](https://github.com/peaks/bringit), a didactic and transparent GUI for Git using Gamification. It is an Open Source project, feel free to explore, share and get involved!
 
+| Main Skills | Secondary Skills |
+| :---------- | :--------------: |
+| <img src="https://skillicons.dev/icons?i=flutter,dart,git,bash,java&theme=light"/> | <img src="https://skillicons.dev/icons?i=gitlab,linux,py,docker,latex,react&theme=light"/> |
+
 ## Main Skills
 
 <p align="center">
