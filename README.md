@@ -5,27 +5,39 @@ In parallel, I am since 2017 Associate Teacher at Telecom Saint Etienne, respons
 
 🔭 I’m currently working on [Brin'Git](https://github.com/peaks/bringit), a didactic and transparent GUI for Git using Gamification. It is an Open Source project, feel free to explore, share and get involved!
 
-## Main Skills
+## Tech Stack
+
+### Main skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,git,bash,java&theme=light"/>
 </p>
 
-## Secondary Skills
+### Secondary Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gitlab,linux,py,docker,latex,react&theme=light"/>
 </p>
 
-## Environment
+### Environment
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ubuntu,vscodium,md,&theme=light"/>
 </p>
 
 
-## Hobbies
+### Hobbies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=light"/>
 </p>
+
+## Projects
+
+<a href="https://github.com/juleschevalier/slider">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/peaks/bringit/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
