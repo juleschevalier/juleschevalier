@@ -7,6 +7,8 @@ In parallel, I am since 2017 Associate Teacher at Telecom Saint Etienne, respons
 
 ## Tech Stack
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juleschevalier&layout=compact&theme=dark&hide_border=true)
+
 ### Main skills
 
 <p align="center">
