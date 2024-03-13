@@ -9,13 +9,13 @@ In parallel, I am since 2017 Associate Teacher at Telecom Saint Etienne, respons
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juleschevalier&layout=compact&theme=dark&hide_border=true)
 
-<p align="center">
-
 | Main | Secondary | Environements | Hobbies |
 |:----:|:---------:|:-------------:|:-------:|
-| <img src="https://skillicons.dev/icons?i=flutter,dart,git,bash,java&theme=dark&perline=3"/> |  <img src="https://skillicons.dev/icons?i=gitlab,linux,py,docker,latex,react&theme=dark&perline=3"/> | <img src="https://skillicons.dev/icons?i=ubuntu,vscodium,md,&theme=dark&perline=3"/> | <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark&perline=3"/> |
-
-</p>
+| <img src="https://skillicons.dev/icons?i=flutter,dart,git,bash,java&theme=dark&perline=3"/>
+| <img src="https://skillicons.dev/icons?i=gitlab,linux,py,docker,latex,react&theme=dark&perline=3"/>
+| <img src="https://skillicons.dev/icons?i=ubuntu,vscodium,md,&theme=dark&perline=3"/>
+| <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark&perline=3"/>
+|
 
 ### Main skills
 
