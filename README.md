@@ -11,32 +11,8 @@ In parallel, I am since 2017 Associate Teacher at Telecom Saint Etienne, respons
 
 | Main | Secondary | Environements | Hobbies |
 |:----:|:---------:|:-------------:|:-------:|
-| <img src="https://skillicons.dev/icons?i=flutter,dart,git,bash,java&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=gitlab,linux,py,docker,latex,react&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=ubuntu,vscodium,md,&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark&perline=4"/> |
+| <img src="https://skillicons.dev/icons?i=flutter,dart,git,bash,java&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=gitlab,linux,py,docker,latex,react,postgres&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,vscodium,md,&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,latex&theme=dark&perline=4"/> |
 
-### Main skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,git,bash,java&theme=light"/>
-</p>
-
-### Secondary Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gitlab,linux,py,docker,latex,react&theme=light"/>
-</p>
-
-### Environment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,vscodium,md,&theme=light"/>
-</p>
-
-
-### Hobbies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=light"/>
-</p>
 
 ## Projects
 
