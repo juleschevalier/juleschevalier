@@ -11,11 +11,7 @@ In parallel, I am since 2017 Associate Teacher at Telecom Saint Etienne, respons
 
 | Main | Secondary | Environements | Hobbies |
 |:----:|:---------:|:-------------:|:-------:|
-| <img src="https://skillicons.dev/icons?i=flutter,dart,git,bash,java&theme=dark&perline=3"/>\
-| <img src="https://skillicons.dev/icons?i=gitlab,linux,py,docker,latex,react&theme=dark&perline=3"/>\
-| <img src="https://skillicons.dev/icons?i=ubuntu,vscodium,md,&theme=dark&perline=3"/>\
-| <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark&perline=3"/>\
-|
+| <img src="https://skillicons.dev/icons?i=flutter,dart,git,bash,java&theme=dark&perline=3"/> | <img src="https://skillicons.dev/icons?i=gitlab,linux,py,docker,latex,react&theme=dark&perline=3"/> | <img src="https://skillicons.dev/icons?i=ubuntu,vscodium,md,&theme=dark&perline=3"/> | <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark&perline=3"/> |
 
 ### Main skills
 
