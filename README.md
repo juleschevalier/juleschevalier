@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
-<h3 align="center">Head of R&D @[Peaks](https://peaks.fr/) / Associate Teacher @[Telecom StEtienne](https://www.telecom-st-etienne.fr/)</h3>
+<h3 align="center">Head of R&D <a src=https://peaks.fr/>@Peaks</a>/ / Associate Teacher <a src=https://www.telecom-st-etienne.fr/>@Telecom St-Etienne</a></h3>
 
 - After a PhD on Incremental Reasoning on data streams developing [Slider](https://github.com/juleschevalier/slider/), I worked as a DevOps Engineer for 2 years. Since november 2018 I am Head of Research & Innovation at Peaks, Lyon. In parallel, I am since 2017 Associate Teacher at Telecom Saint Etienne, responsible for various classes on DevOps, Java, Git, NodeJS and agile methods.
 
