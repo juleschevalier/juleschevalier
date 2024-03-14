@@ -11,8 +11,6 @@
 |:----:|:---------:|:-------------:|:-------:|
 | <img src="https://skillicons.dev/icons?i=flutter,dart,git,bash,java&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=gitlab,linux,py,docker,latex,react,postgres&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,vscodium,md,&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,latex,&theme=dark&perline=4"/> |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juleschevalier&layout=compact&theme=dark&hide_border=true)
-
 ## Main Projects
 
 <a href="https://github.com/juleschevalier/slider/">
